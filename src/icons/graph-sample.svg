@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="194px" height="47px" viewBox="0 0 194 47" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 56 (101010) - https://sketch.com -->
+    <title>8E3894EB-869F-4EF5-9D49-1EBC2DB04670</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="-315.814517%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#8D2B0B" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Content-/-Widgets-/-Overview-/-Graph" transform="translate(-143.000000, -25.000000)">
+            <g id="Graph" transform="translate(144.000000, 25.000000)">
+                <path d="M0,30.1299587 C8.14100711,37.8706932 15.0517835,40.9903896 20.7323291,39.4890477 C29.2531476,37.2370349 35.5411357,23.5830083 43.8701302,23.5830083 C52.1991248,23.5830083 59.570918,26.9412928 69.9581831,19.4844141 C80.3454483,12.0275355 82.0613701,1.77801178 94.5644531,1.77801178 C107.067536,1.77801178 123.141365,23.7863417 139.916366,6.95954755 C151.099701,-4.25831521 168.430313,0.360650733 191.908203,20.8164454 L191.908203,46.1523438 L0,46.1523438 L0,30.1299587 Z" id="Graph---Gradient-bg" fill="url(#linearGradient-1)"></path>
+                <path d="M0,30.0160094 C8.14100711,37.7567439 15.0517835,40.8764403 20.7323291,39.3750984 C29.2531476,37.1230856 35.5411357,23.4690591 43.8701302,23.4690591 C52.1991248,23.4690591 59.570918,26.8273435 69.9581831,19.3704649 C80.3454483,11.9135862 82.0613701,1.6640625 94.5644531,1.6640625 C107.067536,1.6640625 123.141365,23.6723924 139.916366,6.84559827 C151.099701,-4.37226449 168.430313,0.246701458 191.908203,20.7024961" id="Graph---Line" stroke="#8D2B0B" stroke-width="1.3"></path>
+            </g>
+        </g>
+    </g>
+</svg>
