@@ -44,6 +44,14 @@ const router = new Router({
         requiresAuth: false
       }
     },
+    {
+      path: '/users',
+      name: 'users',
+      component: importView('Users'),
+      meta: {
+        requiresAuth: false
+      }
+    },
   ]
 })
 
